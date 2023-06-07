@@ -1,1 +1,1 @@
-# ImpermanentLossCalculator
+# Impermanent Loss Calculator
